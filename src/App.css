@@ -1,0 +1,19 @@
+@media screen and (min-width: 992px) {
+    #root {
+      padding: 1rem 2rem;
+    }
+    table {
+      font-size: 1rem;
+    }
+    .table-responsive {
+      padding-right: 1rem;
+    }
+    .form,
+    .alerta {
+      padding-left: 1rem;
+    }
+  }
+
+.form-group{
+  text-align: left;
+}
